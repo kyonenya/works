@@ -2,7 +2,7 @@
 
 Takashi KYONENYA (Hosei University)
 
-Thinking is not inner speaking. It is not because thinking is done without words. There are words that are not merely uttered in the thinking process, but constitute the very act of thinking itself––which is called “inner speech” ––, but that can never be _speech_, which will be argued in this paper.
+Thinking is not inner speaking. It is not because thinking is done without words. There are words that are not merely uttered in the thinking process, but constitute the very act of thinking itself——which is called “inner speech”——, but that can never be _speech_, which will be argued in this paper.
 
 In the first half of this paper, the focus is on Husserl’s specification of “monologue” in the first investigation of _Logical Investigation_, which does not have the function of “announcement (Kundgabe)”. If this thesis is correct, then “monologue” can no longer mean, contrary to Husserl’s self-diagnosis, that there is an “I” as a speaker in the mind and this person speaks something (we call this “imagined speech”). Therefore, we specify the essence of inner speech as the sole representation of the words, which lacks the representation of the speaker in general.
 
